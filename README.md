@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <h3>Feel free to check out my repositories below! 👉 <a href="https://github.com/ThambimuthuAnush24?tab=repositories">My Repositories</a></h3>
+  <h3>Feel free to check out my repositories ! 👉 <a href="https://github.com/ThambimuthuAnush24?tab=repositories">My Repositories</a></h3>
 </div>
