@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anush</h1>
-<h3 align="center">I am currently pursuing a BSc (Hons) in Information Technology at the University of Moratuwa, with a keen interest in Full-Stack Development, Mobile Application Development, and DevOps Engineering.</h3>
+<h3 align="center">
+🚀 I am currently pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
+💻 I have a keen interest in Full-Stack Development, Mobile Application Development, and DevOps Engineering.
+🌟 I am eager to apply my skills and continue learning through real-world projects and collaborations.
+</h3>
 
 ---
 
