@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anush</h1>
-<h3 align="center">I’m currently pursuing BSc (Hons) in Information Technology at the University of Moratuwa, with a keen interest in Software Development and DevOps Engineering.</h3>
+<h3 align="center">I am currently pursuing a BSc (Hons) in Information Technology at the University of Moratuwa, with a keen interest in Full-Stack Development, Mobile Application Development, and DevOps Engineering.</h3>
 
 ---
 
