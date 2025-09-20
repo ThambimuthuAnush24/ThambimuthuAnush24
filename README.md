@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anush</h1>
+
 <h3 align="center">
-       🎓Third-year IT undergraduate.<br>
-       💻Full-Stack Development | Mobile Application Development | DevOps Engineering.<br>
-       🌟I am eager to apply my skills and continue learning through real-world projects and collaborations.<br>
+ Third-year IT undergraduate<br>
+ Full-Stack Development | Mobile Application Development | DevOps Engineering<br>
+ I am eager to apply my skills and continue learning through real-world projects and collaborations
 </h3>
 
 ---
@@ -49,5 +50,5 @@
 ---
 
 <div align="center">
-  <h3>Feel free to check out my repositories ! 👉 <a href="https://github.com/ThambimuthuAnush24?tab=repositories">My Repositories</a></h3>
+  <h3>Feel free to check out my repositories! 👉 <a href="https://github.com/ThambimuthuAnush24?tab=repositories">My Repositories</a></h3>
 </div>
