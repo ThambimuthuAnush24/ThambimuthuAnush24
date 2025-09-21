@@ -7,6 +7,15 @@
 
 ---
 
+## 📫 Get In Touch
+<p align="left">
+  <a href="mailto:anushthambi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Skills
 
 ### 💻 Programming Languages
