@@ -46,7 +46,7 @@
 
 ### ☁️ Cloud & Services
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase,docker" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
